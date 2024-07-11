@@ -270,3 +270,4 @@ xlrd==2.0.1
 XlsxWriter==3.2.0
 yarl==1.9.4
 zopfli==0.2.3
+psutil
